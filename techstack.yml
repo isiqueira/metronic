@@ -1,0 +1,243 @@
+repo_name: isiqueira/metronic
+report_id: 803ea0ac40075f4ed099d3496170a837
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-11T18:22:06+00:00'
+requested_by: mikesmayer
+provider: github
+branch: master
+detected_tools_count: 19
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/datatables/examples/server_side/scripts/mysql.sql
+  detection_source: theme/assets/global/plugins/datatables/examples/server_side/scripts/mysql.sql
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-confirmation/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-confirmation/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: '1.7'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/icheck/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-selectsplitter/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-confirmation/package.json
+  detection_source: theme/assets/global/plugins/bootstrap-confirmation/package.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-markdown/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-markdown/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/isiqueira/metronic
+  detection_source: Repo Metadata
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-confirmation/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-confirmation/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: jQuery
+  description: Distribution repo for jQuery Core releases
+  package_url: http://bower.io/jQuery
+  version: 1.9.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-selectsplitter/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-selectsplitter/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: markdown
+  description: A sensible Markdown parser for javascript
+  package_url: http://bower.io/markdown
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-markdown/bower.json
+  detection_source: theme/assets/global/plugins/bootstrap-markdown/bower.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: components/jquery
+  description: JQuery JavaScript Library
+  package_url: https://packagist.org/components/jquery
+  version: 1.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/select2/composer.json
+  detection_source: theme/assets/global/plugins/select2/composer.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/select2/composer.json
+  detection_source: theme/assets/global/plugins/select2/composer.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-confirmation/package.json
+  detection_source: theme/assets/global/plugins/bootstrap-confirmation/package.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/isiqueira/metronic/blob/master/theme/assets/global/plugins/bootstrap-confirmation/package.json
+  detection_source: theme/assets/global/plugins/bootstrap-confirmation/package.json
+  last_updated_by: Mike Mayer
+  last_updated_on: 2015-04-17 16:30:17.000000000 Z
